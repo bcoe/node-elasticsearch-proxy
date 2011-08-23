@@ -1,16 +1,23 @@
 {
-    "name": "elasticsearch-proxy",
-    "directories" : { "lib" : "./lib" },
-    "version": "0.0.1",
-    "author": "Ben Coe <bencoe@gmail.com>",
-    "dependencies": {
-        "simple-class": "1.0.0"
-    },
-    "engines" : ["node"],
-    "description" : "A proxy layer for elasticsearch.",
-    "keywords" : ["elasticsearch", "proxy"],
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:attachmentsme/node-elasticsearch-proxy.git"
-    }
+  "name": "esproxy",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index",
+  "version": "0.0.3",
+  "author": "Ben Coe <bencoe@gmail.com>",
+  "engines": [
+    "node"
+  ],
+  "description": "A fault-tolerant proxy layer for ElasticSearch.",
+  "keywords": [
+    "elasticsearch",
+    "proxy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bcoe/node-elasticsearch-proxy.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
