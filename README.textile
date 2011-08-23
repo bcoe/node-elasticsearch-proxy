@@ -1,4 +1,4 @@
-h1. HSProxy
+h1. ESProxy
 
 h2. Description
 
