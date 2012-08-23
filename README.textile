@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bcoe/node-elasticsearch-proxy.png)](http://travis-ci.org/bcoe/node-elasticsearch-proxy)
 h1. ESProxy
 
 h2. Description
